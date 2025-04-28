@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @george-addo
-- 👀 I’m interested in Software FullStack Software/Data Engineering
+- 👀 I’m interested in FullStack Software/Data Engineering (Cool Geek)
 - 🌱 I’m currently learning Golang, Kubernetes, Machine Learning
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me +15085246590
